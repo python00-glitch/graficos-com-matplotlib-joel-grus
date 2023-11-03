@@ -1,6 +1,6 @@
 # NOTAS IMPORTANTES: funções do módulo "pyplot", exemplificando ".axis()", levam apenas 1 ARGUMENTO, por isso
 #    sempre coloque argumentos que levam mais de um elemento entre colchetes [] para ser considereado 1 argumento
-#    funções que determinam a anela do gráfico, como ".plot" ou ".bar" são exceções que levam 2 argumentos, mas caso
+#    funções que determinam a anela do gráfico, como ".plot" ou ".bar" são exceções que levam mais argumentos, mas caso
 #    precise fazer um fluxo de controle, ter de se colocar o fluxo entre colchetes []
 # funções são todas as ações marcadas com ponto antes da palavra, e um parênteses no final dela [.funcao()]
 
