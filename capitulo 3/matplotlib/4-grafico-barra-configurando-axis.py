@@ -21,6 +21,4 @@ p.xticks(years)  # colocando cada elemento da lista "years" como um marcador
 p.ylabel("Vezes que ouvi sobre ciencia de dados")  # título do conjunto no eixo Y
 p.xlabel("Anos que se passaram")
 
-
-
 p.show()
