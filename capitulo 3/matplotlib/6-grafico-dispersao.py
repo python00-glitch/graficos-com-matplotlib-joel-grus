@@ -13,7 +13,7 @@ minutos = [175, 170, 205, 120, 220, 130, 105, 145, 190]
 # a etiqueta (nome) de cada usuário
 etiquetas = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
 
-# cria o gráfico em formato de dispersão
+# cria o gráfico em formato de dispersão (ou scatterplots)
 p.scatter(amigos, minutos)
 
 # crie os pontos e coloque etiqueta em cada ponto
