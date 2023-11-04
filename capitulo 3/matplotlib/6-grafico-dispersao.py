@@ -16,7 +16,7 @@ etiquetas = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
 # cria o gráfico em formato de dispersão
 p.scatter(amigos, minutos)
 
-# coloque etiqueta em cada ponto
+# crie os pontos e coloque etiqueta em cada ponto
 # portugol: "para cada elemento de todas as listas que foram compactadas no 'zip':"
 for etiqueta, amigos_count, minutos_count in zip(etiquetas, amigos, minutos):
     # portugol: "p.etiquete( cada etiqueta de 'etiquetas', xy=('amigos_c' no eixo X, 'minutos_c' no Y), coordenadas das
